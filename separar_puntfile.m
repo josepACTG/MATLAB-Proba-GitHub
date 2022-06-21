@@ -5,10 +5,6 @@ function [string_file, string_final] = separar_puntfile(string1)
 % ex: asdf.jpg -> "asdf" ".jpg"
 %
 % esto est una asfas
-adf
-asdf
-adf
-a
 %string1 = "asdf.jpg"
 
 if contains(string1, ".")
