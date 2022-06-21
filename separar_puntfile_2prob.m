@@ -7,6 +7,8 @@ function [string_file, string_final] = separar_puntfile(string1)
 %string1 = "asdf.jpg"
 
 % NUEVO WEY
+% 
+% Pues esta bien, esta bien
 %
 
 if contains(string1, ".")
