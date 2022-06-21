@@ -16,7 +16,11 @@ function [string_file, string_final] = separar_puntfile(string1)
  asd
  fa
  
- 
+ 564656+6545646
+ 56
+ 456
+ 46546
+ 456
  
 
 % NUEVO WEY
