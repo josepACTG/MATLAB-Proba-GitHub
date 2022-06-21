@@ -4,6 +4,11 @@ function [string_file, string_final] = separar_puntfile(string1)
 % retorna les parts del nom d'un document amb nom d'arxiu
 % ex: asdf.jpg -> "asdf" ".jpg"
 %
+% esto est una asfas
+adf
+asdf
+adf
+a
 %string1 = "asdf.jpg"
 
 if contains(string1, ".")
