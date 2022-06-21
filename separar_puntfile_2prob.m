@@ -6,6 +6,8 @@ function [string_file, string_final] = separar_puntfile(string1)
 %
 %string1 = "asdf.jpg"
 
+% Pues aqui me la saco
+
 % NUEVO WEY
 %
 
