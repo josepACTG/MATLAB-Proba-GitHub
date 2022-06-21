@@ -9,6 +9,15 @@ function [string_file, string_final] = separar_puntfile(string1)
 % Pues aqui me la saco
 
 % NUEVO WEY
+% asdfasdfa dsfa dfa sdfa sdfasd fasdfas
+% asfdasdf asdfa sdf% asdfasdfa dsfa dfa sdfa sdfasd fasdfas
+% asfdasdf asdfa sdf% asdfasdfa dsfa dfa sdfa sdfasd fasdfas
+% asfdasdf asdfa sdf% asdfasdfa dsfa dfa sdfa sdfasd fasdfas
+% asfdasdf asdfa sdf% asdfasdfa dsfa dfa sdfa sdfasd fasdfas
+% asfdasdf asdfa sdf% asdfasdfa dsfa dfa sdfa sdfasd fasdfas
+% asfdasdf asdfa sdf% asdfasdfa dsfa dfa sdfa sdfasd fasdfas
+% asfdasdf asdfa sdf% asdfasdfa dsfa dfa sdfa sdfasd fasdfas
+% asfdasdf asdfa sdf
 %
 
 if contains(string1, ".")
