@@ -10,6 +10,8 @@ function [string_file, string_final] = separar_puntfile(string1)
 
 % NUEVO WEY
 %
+%Esto aqui queda mejor
+%porque tu codigo es una mie
 
 if contains(string1, ".")
     splited_string1 = split(string1, ".");
