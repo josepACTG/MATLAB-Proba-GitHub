@@ -6,7 +6,18 @@ function [string_file, string_final] = separar_puntfile(string1)
 %
 %string1 = "asdf.jpg"
 
-% Pues aqui me la saco
+% Pues aqui me la saco asdfasdf asdf
+ asdf
+ asd
+ fasd
+ fas
+ dfa
+ sdfasdfasdf
+ asd
+ fa
+ 
+ 
+ 
 
 % NUEVO WEY
 %
