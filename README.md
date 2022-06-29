@@ -22,3 +22,5 @@ Proba per a veure com funciona GitHub i GitHub amb MATLAB
 https://github.com/josepACTG/MATLAB-Proba-GitHub.git
 
 
+![plot](./z_technical difficulties please stand by simpsons.jpg)
+
