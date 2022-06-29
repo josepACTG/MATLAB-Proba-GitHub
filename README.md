@@ -8,6 +8,6 @@ Proba per a veure com funciona GitHub i GitHub amb MATLAB
 
 
 
-![alt text](MATLAB-Proba-GitHub/z_technical difficulties please stand by simpsons.jpg)
+![alt text](/z_technical difficulties please stand by simpsons.jpg)
 
 
