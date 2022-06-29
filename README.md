@@ -7,20 +7,7 @@ Proba per a veure com funciona GitHub i GitHub amb MATLAB
 ![alt text](z_technical_difficulties_simpsons.jpg)
 
 
+![alt text](https://i.pinimg.com/736x/f3/a0/0b/f3a00b69a508a38055a45ed3bb55a88a.jpg)
 
-![alt text](/)
-
-
-![alt text]("https://github.com/josepACTG/MATLAB-Proba-GitHub/edit/main/z_technical difficulties please stand by simpsons.jpg"?raw=true)
-
-![alt text]("https://github.com/josepACTG/MATLAB-Proba-GitHub/edit/main/z_technical difficulties please stand by simpsons.jpg")
-
-![alt text](https://github.com/josepACTG/MATLAB-Proba-GitHub/main/z_technical difficulties please stand by simpsons.jpg)
-
-
-
-https://github.com/josepACTG/MATLAB-Proba-GitHub.git
-
-
-![plot](z_technical difficulties please stand by simpsons.jpg)
+https://i.pinimg.com/736x/f3/a0/0b/f3a00b69a508a38055a45ed3bb55a88a.jpg
 
